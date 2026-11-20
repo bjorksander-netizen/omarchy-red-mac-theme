@@ -72,7 +72,7 @@ output stays distinguishable without breaking the monochrome-red mood.
 
 ## Backgrounds
 
-All 18 wallpapers from the source folder are included and cycle with
+All 20 wallpapers from the source folder are included and cycle with
 `omarchy theme bg next` (two-digit names sort in the original order, square
 `1x1-*` variants come last):
 
@@ -92,6 +92,8 @@ All 18 wallpapers from the source folder are included and cycle with
 | `12.png`    | `12.png`        | 2048x1024 | 19                 |
 | `13.png`    | `13.png`        | 2048x1024 | 52                 |
 | `14.png`    | `14.png`        | 2048x1024 | 52                 |
+| `15.png`    | `15.png`        | 2048x1024 | 57                 |
+| `16.png`    | `16.png`        | 2048x1024 | 19                 |
 | `1x1-1.png` | `_1 1x1.png`    | 4000x4000 | 48                 |
 | `1x1-2.png` | `_2 1x1.png`    | 4000x4000 | 41                 |
 | `1x1-3.png` | `_3 1x1.png`    | 4000x4000 | 24                 |
