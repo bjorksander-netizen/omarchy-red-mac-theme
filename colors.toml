@@ -1,0 +1,35 @@
+# Red Mac — deep "red macOS" palette drawn from the wallpapers in
+# ~/Pictures/red mac/red mac theme
+# Warm near-black surfaces, crimson accent, warm off-white text.
+
+mode = "dark"
+
+accent = "#e5484d"
+selection = "#4a1d20"
+muted = "#7f5f60"
+
+background = "#1a0e10"
+dark_background = "#150a0c"
+darker_background = "#0f0607"
+lighter_background = "#2c1719"
+
+foreground = "#f4e6e3"
+dark_foreground = "#8f7072"
+light_foreground = "#d8bdba"
+bright_foreground = "#fff4f1"
+
+red = "#e5484d"
+yellow = "#e8b982"
+orange = "#f28c5b"
+green = "#aa1e23"
+cyan = "#8fc3c3"
+blue = "#1eaaa5"
+magenta = "#d98ea4"
+brown = "#a06a5a"
+
+bright_red = "#ff6f6f"
+bright_yellow = "#f5cf9d"
+bright_green = "#9ecba7"
+bright_cyan = "#addbdb"
+bright_blue = "#b6c1e0"
+bright_magenta = "#efa9ba"
