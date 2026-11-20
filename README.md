@@ -2,7 +2,7 @@
 
 A dark, warm-crimson theme for [Omarchy](https://omarchy.org) — near-black
 surfaces, a crimson accent, and warm off-white text. Built from the *red mac*
-wallpaper set, with 18 wallpapers included.
+wallpaper set, with 20 wallpapers included.
 
 ![Preview](preview.png)
 
@@ -66,7 +66,7 @@ output stays distinguishable without breaking the monochrome-red mood.
 | File          | Purpose                                                        |
 | ------------- | -------------------------------------------------------------- |
 | `colors.toml` | The whole theme. Omarchy generates terminal, btop, GTK, editor, shell and app colors from these values. |
-| `backgrounds/` | 18 wallpapers, cycled with `omarchy theme bg next`.            |
+| `backgrounds/` | 20 wallpapers, cycled with `omarchy theme bg next`.            |
 | `icons.theme` | Icon theme to pair with it (`Yaru-red-dark`).                   |
 | `preview.png` | 1920x1080 preview used by the theme switcher.                   |
 
